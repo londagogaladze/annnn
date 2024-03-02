@@ -1,0 +1,36 @@
+.pirveli{
+    border:none;
+    border-radius: 5px;
+    text-align: start;
+    background-color: green;
+    border-collapse: collapse;
+
+    height: 100px;
+    width: 300px;
+}
+
+
+.meore{
+    background-color: green;
+    color: white;
+    ;
+}
+ .meotxe{
+    background-color: antiquewhite;
+    color: green;
+
+ }
+ .mesame{
+    background-color: white;
+ }
+
+ .meeqvse{
+    background-color: white;
+    border-bottom: 2px solid green;
+    border:radius 11%
+ }
+
+ .pirveli{
+    border-radius: 11px;
+    border-bottom: 2px solid color green ;
+ }
